@@ -5,7 +5,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Love+Coding+and+Designing;Love+Teaching+Others;Hard+Worker;Critical+Thinker&center=true">
 </p>
-## <img src="https://github.com/mrshakil015/mrshakil015/blob/main/img/2.gif" height="25px"/>  Hi, I'm Md. Shakil👋 
+
 <h2 align="center">
 <a href="https://github.com/mrshakil015/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=mrshakil015"></a>
 <a href="https://github.com/mrshakil015?tab=followers"><img src="https://img.shields.io/github/followers/mrshakil015?label=Followers&style=social" alt="GitHub Badge"></a>
