@@ -2,6 +2,10 @@
     <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" align="center" style="width: 100%" />
 </div>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Always+Learning;Love+Teaching+Others;Critical+Thinker&center=true">
+</p>
+
 ## Hi there 👋
 ### Hi there 👋
 
