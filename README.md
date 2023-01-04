@@ -26,7 +26,11 @@
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
 </div>  
-
+<p align="center">
+    <a href="https://github.com/mrshakil015/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Md. Shakil's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mrshakil015&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 ## <img src="https://github.com/aatansen/aatansen/blob/main/img/8.gif" height="25px"/> Connect with me:
 
@@ -54,11 +58,7 @@
 </a>  
 </div> 
 
-<p align="center">
-    <a href="https://github.com/mrshakil015/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Md. Shakil's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mrshakil015&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+
 
 ## <img src="https://github.com/aatansen/aatansen/blob/main/img/6.gif" height="25px"/> My Github Stats
 
