@@ -9,7 +9,22 @@
 <a href="https://github.com/mrshakil015/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=mrshakil015"></a>
 <a href="https://github.com/mrshakil015?tab=followers"><img src="https://img.shields.io/github/followers/mrshakil015?label=Followers&style=social" alt="GitHub Badge"></a>
 </h2>
-## Hi there 👋
+
+<h3 align="center">
+<a href="https://github.com/aatansen/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=aatansen"></a>
+<a href="https://github.com/aatansen?tab=followers"><img src="https://img.shields.io/github/followers/aatansen?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://twitter.com/aatansen" target="blank"><img src="https://img.shields.io/twitter/follow/aatansen?style=social" alt="aatansen" /></a></h3>
+
+## <img src="https://github.com/aatansen/aatansen/blob/main/img/2.gif" height="25px"/> About Me
+
+- <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> I’m currently learning **Wordpress, Python**
+
+- <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> I’m interested in **Web Development**
+
+- <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> My learning platform **[Udemy Profile](https://www.udemy.com/user/tansen-3/)**
+
+- <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> All of my projects are available at **[My Portfolio](https://aatansen.github.io)**<img src="https://github.com/aatansen/aatansen/blob/main/img/4.gif" height="15px"/>
+
 
 
 ## <img src="https://github.com/aatansen/aatansen/blob/main/img/5.gif" height="25px"/> Languages and Tools:
