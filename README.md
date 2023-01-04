@@ -3,6 +3,7 @@
 </div>  
 
 <p align="center">
+    <h2>Hi, There</h2>
 <img src="https://readme-typing-svg.herokuapp.com?lines=Love+Coding+and+Designing;Love+Teaching+Others;Hard+Worker;Critical+Thinker&center=true">
 </p>
 <h2 align="center">
