@@ -17,15 +17,12 @@
 
 ## <img src="https://github.com/aatansen/aatansen/blob/main/img/2.gif" height="25px"/> About Me
 
-- <img src="https://github.com/mrshakil015/mrshakil015/blob/main/img/3.gif" height="25px"/> I’m currently learning **Wordpress, Python**
+- <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> I’m currently learning **Wordpress, Python**
 
-- <img src="https://github.com/mrshakil015/mrshakil015/blob/main/img/3.gif" height="25px"/> I’m interested in multiple sector, Like- **Android Development, Web Development, Machine Learning, Robotics**
-
-- <img src="https://github.com/mrshakil015/mrshakil015/blob/main/img/3.gif" height="25px"/> All of my projects are available at **[My Portfolio](https://mrshakil015.github.io)**<img src="https://mrshakil015.com/mrshakil015/mrshakil015/blob/main/img/4.gif" height="15px"/>
+- <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> I’m interested in multiple sector, Like- **Android Development, Web Development, Machine Learning, Robotics**
 
 
-
-## <img src="https://github.com/mrshakil015/mrshakil015/blob/main/img/5.gif" height="25px"/> Skills & Experiance:
+## <img src="https://github.com/aatansen/aatansen/blob/main/img/5.gif" height="25px"/> Skills & Experiance:
 
 <div align="left">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" /></a>  
@@ -54,16 +51,16 @@
 
 
 
-## <img src="https://github.com/mrshakil015/mrshakil015/blob/main/img/6.gif" height="25px"/> My Github Stats
+## <img src="https://github.com/aatansen/aatansen/blob/main/img/6.gif" height="25px"/> My Github Stats
 
 <a href="https://github.com/mrshakil015/github-readme-stats"><img alt="Md. Shakil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrshakil015&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/mrshakil015/github-readme-stats"><img alt="Md. Shakil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshakil015&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-## <img src="https://github.com/mrshakil015/mrshakil015/blob/main/img/7.gif" height="25px"/> Achievement
+## <img src="https://github.com/aatansen/aatansen/blob/main/img/7.gif" height="25px"/> Achievement
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrshakil015" alt="mrshakil015" /></a> </p>
 
-## <img src="https://github.com/mrshakil015/mrshakil015/blob/main/img/8.gif" height="25px"/> Connect with me:
+## <img src="https://github.com/aatansen/aatansen/blob/main/img/8.gif" height="25px"/> Connect with me:
 
 <div align="left">
 <a href="https://www.linkedin.com/in/mrshakil015/" target="_blank">
