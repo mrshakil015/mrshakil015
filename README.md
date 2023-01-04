@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 </div>  
 
 ## <img src="https://github.com/aatansen/aatansen/blob/main/img/6.gif" height="25px"/> My Github Stats
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="50%" style="background-color:powderblue;">
 
 <img src="https://github-readme-stats.vercel.app/api?username=mrshakil015&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
