@@ -2,11 +2,10 @@
 <div align="center">
 <img src="https://scontent.fdac146-1.fna.fbcdn.net/v/t39.30808-6/319751704_1180228682589321_3473373908758739894_n.jpg?stp=dst-jpg_p180x540&_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGrEKTOe7_-tFFzJQejfexzOzWswr6uwQs7NazCvq7BCyIglQrchruoypjtquSo3ZqTovM69nnSWziT9vquXruD&_nc_ohc=kx7fMJ3_ZPUAX_eIcHz&tn=cs3Sjwc2o19m-F0G&_nc_ht=scontent.fdac146-1.fna&oh=00_AfCd-2l_IjlHptvSbm-JgxDKczTtKbo1uWdN5GJm7VqkSw&oe=63B9D26B" align="center" style="width: 100%" />
 </div>  
-## <img src="https://github.com/mrshakil015/mrshakil015/blob/main/img/2.gif" height="25px"/>  Hi, I'm Md. Shakil👋 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Love+Coding+and+Designing;Love+Teaching+Others;Hard+Worker;Critical+Thinker&center=true">
 </p>
-
+## <img src="https://github.com/mrshakil015/mrshakil015/blob/main/img/2.gif" height="25px"/>  Hi, I'm Md. Shakil👋 
 <h2 align="center">
 <a href="https://github.com/mrshakil015/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=mrshakil015"></a>
 <a href="https://github.com/mrshakil015?tab=followers"><img src="https://img.shields.io/github/followers/mrshakil015?label=Followers&style=social" alt="GitHub Badge"></a>
