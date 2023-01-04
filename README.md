@@ -25,7 +25,7 @@
 
 
 
-## <img src="https://github.com/mrshakil015/mrshakil015/blob/main/img/5.gif" height="25px"/> Languages and Tools:
+## <img src="https://github.com/mrshakil015/mrshakil015/blob/main/img/5.gif" height="25px"/> Skills & Experiance:
 
 <div align="left">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" /></a>  
