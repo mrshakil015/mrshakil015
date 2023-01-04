@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Always+Learning;Love+Teaching+Others;Critical+Thinker&center=true">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Love+Coding+and+Designing;Love+Teaching+Others;Hard+Worker;Critical+Thinker&center=true">
 </p>
 
 ## Hi there 👋
