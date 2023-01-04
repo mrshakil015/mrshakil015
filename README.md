@@ -11,7 +11,7 @@
 <a href="https://github.com/mrshakil015?tab=followers"><img src="https://img.shields.io/github/followers/mrshakil015?label=Followers&style=social" alt="GitHub Badge"></a>
 </h2>
 
-
+## <img src="https://github.com/mrshakil015/mrshakil015/blob/main/img/2.gif" height="25px"/> About Me
 ## <img src="https://github.com/mrshakil015/mrshakil015/blob/main/img/2.gif" height="25px"/> About Me
 
 - <img src="https://github.com/mrshakil015/mrshakil015/blob/main/img/3.gif" height="25px"/> I’m currently learning **Wordpress, Python**
