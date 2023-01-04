@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## <img src="https://github.com/aatansen/aatansen/blob/main/img/5.gif" height="25px"/> Languages and Tools:
 
-<div align="center">  
+<div align="left">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
@@ -57,4 +57,6 @@ Here are some ideas to get you started:
 </a>  
 </div>  
 
+## <img src="https://github.com/aatansen/aatansen/blob/main/img/6.gif" height="25px"/> My Github Stats
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mrshakil015&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
