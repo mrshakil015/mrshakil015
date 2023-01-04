@@ -62,15 +62,6 @@ Here are some ideas to get you started:
 </div>  
 
 ## <img src="https://github.com/aatansen/aatansen/blob/main/img/6.gif" height="25px"/> My Github Stats
-<table><tr><td valign="top" width="50%" style="background-color:powderblue;">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mrshakil015&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshakil015&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
 
 <a href="https://github.com/mrshakil015/github-readme-stats"><img alt="Md. Shakil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrshakil015&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/mrshakil015/github-readme-stats"><img alt="Md. Shakil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshakil015&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
