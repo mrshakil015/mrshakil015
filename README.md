@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" align="center" style="width: 100%" />
+</div>
+
 ## Hi there 👋
 ### Hi there 👋
 
