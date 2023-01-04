@@ -58,23 +58,23 @@
 ## <img src="https://github.com/mrshakil015/mrshakil015/blob/main/img/8.gif" height="25px"/> Connect with me:
 
 <div align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mrshakil015/" target="_blank">
+<a href="https://www.linkedin.com/in/mrshakil015/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/https://www.facebook.com/mrshakil015" target="_blank">
+<a href="https://www.facebook.com/mrshakil015" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/mrshakil015" target="_blank">
+<a href="https://www.instagram.com/mrshakil015" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://twitter.com/https://twitter.com/MDSHAKI44552080" target="_blank">
+<a href="https://twitter.com/MDSHAKI44552080" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.kaggle.com/https://www.kaggle.com/mdshakil171" target="_blank">
+<a href="https://www.kaggle.com/mdshakil171" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20929260/md-shakil" target="_blank">
+<a href="https://stackoverflow.com/users/20929260/md-shakil" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div> 
