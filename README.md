@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=mrshakil015&&style=flat-square" align="center" />
+</div>  
+
 ## <img src="https://github.com/aatansen/aatansen/blob/main/img/5.gif" height="25px"/> Languages and Tools:
 
 <div align="left">  
