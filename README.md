@@ -59,7 +59,13 @@ Here are some ideas to get you started:
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20929260/md-shakil" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div> 
+
+<p align="center">
+    <a href="https://github.com/mrshakil015/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Md. Shakil's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mrshakil015&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 ## <img src="https://github.com/aatansen/aatansen/blob/main/img/6.gif" height="25px"/> My Github Stats
 
