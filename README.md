@@ -5,10 +5,10 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Love+Coding+and+Designing;Love+Teaching+Others;Hard+Worker;Critical+Thinker&center=true">
 </p>
-<h3 align="center">
-<a href="https://github.com/aatansen/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=aatansen"></a>
-<a href="https://github.com/aatansen?tab=followers"><img src="https://img.shields.io/github/followers/aatansen?label=Followers&style=social" alt="GitHub Badge"></a>
-<a href="https://twitter.com/aatansen" target="blank"><img src="https://img.shields.io/twitter/follow/aatansen?style=social" alt="aatansen" /></a></h3>
+<h2 align="center">
+<a href="https://github.com/mrshakil015/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=mrshakil015"></a>
+<a href="https://github.com/mrshakil015?tab=followers"><img src="https://img.shields.io/github/followers/mrshakil015?label=Followers&style=social" alt="GitHub Badge"></a>
+</h2>
 ## Hi there 👋
 ### Hi there 👋
 
