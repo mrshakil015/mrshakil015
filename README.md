@@ -26,14 +26,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=mrshakil015&&style=flat-square" align="center" />
-</div> 
-<h3 align="center">
-<a href="https://github.com/aatansen/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=aatansen"></a>
-<a href="https://github.com/aatansen?tab=followers"><img src="https://img.shields.io/github/followers/aatansen?label=Followers&style=social" alt="GitHub Badge"></a>
-<a href="https://twitter.com/aatansen" target="blank"><img src="https://img.shields.io/twitter/follow/aatansen?style=social" alt="aatansen" /></a></h3>
-
 
 ## <img src="https://github.com/aatansen/aatansen/blob/main/img/5.gif" height="25px"/> Languages and Tools:
 
