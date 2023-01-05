@@ -4,7 +4,8 @@
 </div> 
 <br/>
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Md.+Shakil+👋;Hi,+I'm+Md.+Shakil+🙋‍♂️;Hi,+I'm+Md.+Shakil+👋&center=true"><br/>
+ 
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33F765&background=2507FF00&width=435&lines=Hi%2C+I'm+Md.+Shakil%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+Hi%2C+I'm+Md.+Shakil%F0%9F%91%8BHi%2C+I'm+Md.+Shakil%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F" alt="Typing SVG" /></a><br/>
 <img src="https://readme-typing-svg.herokuapp.com?lines=🤩Love+Coding+and+Designing;🤩Love+Teaching+Others;💪Hard+Worker;🤔Critical+Thinker&center=true">
 </p>
 
