@@ -5,7 +5,7 @@
 <br/>
 <p align="center">
  
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33F765&background=2507FF00&vCenter=true&multiline=true&width=435&lines=Hi%2CI'm+Md.+Shakil%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F" alt="Typing SVG" /><br/>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=33F765&background=2507FF00&vCenter=true&multiline=true&width=435&lines=Hi%2CI'm+Md.+Shakil&center=true" /><br/>
 <img src="https://readme-typing-svg.herokuapp.com?lines=🤩Love+Coding+and+Designing;🤩Love+Teaching+Others;💪Hard+Worker;🤔Critical+Thinker&center=true">
 </p>
 
