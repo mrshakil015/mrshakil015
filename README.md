@@ -53,7 +53,7 @@
 
 ## <img src="https://github.com/aatansen/aatansen/blob/main/img/6.gif" height="25px"/> My Github Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mrshakil015&theme=blue-green&hide_border=false)<br/>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mrshakil015&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 
 
