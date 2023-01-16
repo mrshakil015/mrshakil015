@@ -53,13 +53,16 @@
 
 ## <img src="https://github.com/aatansen/aatansen/blob/main/img/6.gif" height="25px"/> My Github Stats
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mrshakil015&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+![](https://github-readme-stats.vercel.app/api?username=mrshakil015&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mrshakil015&theme=blue-green&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrshakil015&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
 
 ## <img src="https://github.com/aatansen/aatansen/blob/main/img/7.gif" height="25px"/> Achievement
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrshakil015" alt="mrshakil015" /></a> </p>
+![](https://github-profile-trophy.vercel.app/?username=mrshakil015&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
 
 ## <img src="https://github.com/aatansen/aatansen/blob/main/img/8.gif" height="25px"/> Connect with me:
 
