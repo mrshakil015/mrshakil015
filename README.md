@@ -54,7 +54,7 @@
 ## <img src="https://github.com/aatansen/aatansen/blob/main/img/6.gif" height="25px"/> My Github Stats
 
 
-![](https://github-readme-stats.vercel.app/api?username=mrshakil015&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false&background=060A0CD0)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mrshakil015&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrshakil015&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
