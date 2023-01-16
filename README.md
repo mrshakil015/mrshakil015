@@ -42,10 +42,7 @@
 </div> 
 
 <br/>
-<p align="center">
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=mrshakil015&theme=blue-green&hide_border=true)
-</p>
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=mrshakil015&theme=blue-green&hide_border=true)<br/>
 
 
 
