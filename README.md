@@ -49,7 +49,15 @@
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mrshakil015&theme=blue-green&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=mrshakil015&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrshakil015&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
 
 
 
