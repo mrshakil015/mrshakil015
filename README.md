@@ -1,7 +1,7 @@
 
 <div align="center">
-<img src="[https://scontent.fdac146-1.fna.fbcdn.net/v/t39.30808-6/319751704_1180228682589321_3473373908758739894_n.jpg?stp=dst-jpg_p180x540&_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGrEKTOe7_-tFFzJQejfexzOzWswr6uwQs7NazCvq7BCyIglQrchruoypjtquSo3ZqTovM69nnSWziT9vquXruD&_nc_ohc=kx7fMJ3_ZPUAX_eIcHz&tn=cs3Sjwc2o19m-F0G&_nc_ht=scontent.fdac146-1.fna&oh=00_AfCd-2l_IjlHptvSbm-JgxDKczTtKbo1uWdN5GJm7VqkSw&oe=63B9D26B](https://webcoder.co.in/storage/2021/04/website.gif)" align="center" style="width: 100%" />
-</div> 
+<img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" align="center" style="width: 100%" />
+</div>  
 <br/>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4979&pause=800&color=33F765&background=2507FF00&vCenter=true&width=435&lines=HI,+I'M+MD.+SHAKIL🙋‍♂️;HI,+I'M+MD.+SHAKIL👋&center=true" alt="Typing SVG" /><br/>
