@@ -51,8 +51,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mrshakil015&theme=blue-green&hide_border=true)<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=mrshakil015&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -62,7 +60,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshakil015&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
-
 
 
 ## <img src="https://github.com/aatansen/aatansen/blob/main/img/7.gif" height="25px"/> Achievement
