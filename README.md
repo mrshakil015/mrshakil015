@@ -51,13 +51,13 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mrshakil015&theme=blue-green&hide_border=true)<br/>
 
-<table style='border:none;'><tr style='border:none;'><td valign="top" width="50%" style='border:none;'>
+<table><tr><td valign="top" width="50%">
 
-![](https://github-readme-stats.vercel.app/api?username=mrshakil015&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mrshakil015&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false)<br/>
 
-</td><td valign="center" width="50%" style='border:none;'>
+</td><td valign="center" width="50%">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrshakil015&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrshakil015&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
 </td></tr></table>  
