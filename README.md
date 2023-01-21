@@ -61,6 +61,11 @@
 
 </td></tr></table>  
 
+![](https://github-readme-stats.vercel.app/api?username=mrshakil015&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mrshakil015&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrshakil015&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+
 
 ## <img src="https://github.com/aatansen/aatansen/blob/main/img/7.gif" height="25px"/> Achievement
 
