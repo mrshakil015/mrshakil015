@@ -51,7 +51,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mrshakil015&theme=blue-green&hide_border=true)<br/>
 
-<table><tr><td valign="top" width="50%" style='border:none;'>
+<table style='border:none;'><tr><td valign="top" width="50%" style='border:none;'>
 
 ![](https://github-readme-stats.vercel.app/api?username=mrshakil015&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 
