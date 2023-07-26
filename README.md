@@ -16,7 +16,7 @@
 
 ## <img src="https://github.com/aatansen/aatansen/blob/main/img/2.gif" height="25px"/> About Me
 
-- <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> I’m currently learning <strong>Wordpress, Python, Machine Learning</strong>
+- <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> I’m currently learning <strong>Python PyQt6 GUI, Deep Learnig, Machine Learning</strong>
 
 - <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> I’m interested in multiple sector, Like- **Android Development, Web Development, Machine Learning, Robotics**
 
