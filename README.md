@@ -49,18 +49,21 @@
 
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mrshakil015&theme=blue-green&hide_border=true)<br/>
 
-<table><tr><td valign="top" width="50%">
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrshakil015&theme=gotham&hide_border=false" alt="GitHub Streak" />
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=mrshakil015&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false)<br/>
-
-</td><td valign="center" width="50%">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrshakil015&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-
-</td></tr></table>  
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=mrshakil015&theme=gotham&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshakil015&theme=gotham&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 
 
