@@ -1,11 +1,5 @@
-<div align="center">
-<img src="https://media2.giphy.com/media/3oEdv1vkhqxcynkB5C/giphy.gif" align="center" style="width: 100%" />
-</div>  
-   
-   
-<br/>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4979&pause=800&color=33F765&background=2507FF00&vCenter=true&width=435&lines=HI,+I'M+MD.+SHAKIL🙋‍♂️;HI,+I'M+MD.+SHAKIL👋&center=true" alt="Typing SVG" /><br/>
 <img src="https://readme-typing-svg.herokuapp.com?lines=🤩Love+Coding+and+Designing;🤩Love+Teaching+Others;💪Hard+Worker;🤔Critical+Thinker&center=true">
 </p>
 
@@ -16,7 +10,7 @@
 
 ## <img src="https://github.com/aatansen/aatansen/blob/main/img/2.gif" height="25px"/> About Me
 
-- <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> I’m currently learning <strong>Python PyQt6 GUI, Deep Learnig, Machine Learning</strong>
+- <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> I’m currently learning <strong>React JS, NodeJS, Express JS</strong>
 
 - <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> I’m interested in multiple sector, Like- **Android Development, Web Development, Machine Learning, Robotics**
 
