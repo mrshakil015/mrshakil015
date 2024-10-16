@@ -18,22 +18,22 @@
 ## <img src="https://github.com/aatansen/aatansen/blob/main/img/5.gif" height="25px"/> Skills & Experiance:
 
 <p align="center">
-    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/html.png" width="200px"/>
-    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/css.png" width="200px"/>
-    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/javascript.png" width="200px"/>
-    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/bootstrap.png" width="200px"/>
-    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/tailwind.png" width="200px"/>
-    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/reactjs.png" width="200px"/>
-    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/python.png" width="200px"/>
-    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/django.png" width="200px"/>
-    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/c.png" width="200px"/>
-    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/mysql.png" width="200px"/>
-    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/sqlite.png" width="200px"/>
-    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/cpanel.png" width="200px"/>
-    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/flask.png" width="200px"/>
-    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/office.png" width="200px"/>
-    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/illustrator.png" width="200px"/>
-    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/photoshop.png" width="200px"/>
+    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/html.png" width="150px"/>
+    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/css.png" width="150px"/>
+    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/javascript.png" width="150px"/>
+    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/bootstrap.png" width="150px"/>
+    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/tailwind.png" width="150px"/>
+    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/reactjs.png" width="150px"/>
+    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/python.png" width="150px"/>
+    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/django.png" width="150px"/>
+    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/c.png" width="150px"/>
+    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/mysql.png" width="150px"/>
+    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/sqlite.png" width="150px"/>
+    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/cpanel.png" width="150px"/>
+    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/flask.png" width="150px"/>
+    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/office.png" width="150px"/>
+    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/illustrator.png" width="150px"/>
+    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/photoshop.png" width="150px"/>
 </p>
 
 <br/>
