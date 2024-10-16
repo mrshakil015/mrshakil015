@@ -17,7 +17,7 @@
 
 ## <img src="https://github.com/aatansen/aatansen/blob/main/img/5.gif" height="25px"/> Skills & Experiance:
 
-<p align="center">
+<p>
     <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/html.png" width="150px"/>
     <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/css.png" width="150px"/>
     <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/javascript.png" width="150px"/>
