@@ -9,7 +9,8 @@
 </p>
 
 ## <img src="https://github.com/aatansen/aatansen/blob/main/img/2.gif" height="25px"/> About Me
-
+<img src
+/>
 - <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> I’m currently learning <strong>React JS, NodeJS, Express JS</strong>
 
 - <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> I’m interested in multiple sector, Like- **Android Development, Web Development, Machine Learning, Robotics**
