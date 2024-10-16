@@ -30,6 +30,10 @@
     <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/mysql.png" width="200px"/>
     <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/sqlite.png" width="200px"/>
     <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/cpanel.png" width="200px"/>
+    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/flask.png" width="200px"/>
+    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/office.png" width="200px"/>
+    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/illustrator.png" width="200px"/>
+    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/photoshop.png" width="200px"/>
 </p>
 
 <br/>
