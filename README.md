@@ -12,7 +12,7 @@
 
 - <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> I’m currently learning <strong>ReactJS</strong>
 
-- <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> I’m interested in multiple sector, Like- **Android Development, Web Development, Machine Learning, Robotics**
+- <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> I’m interested in multiple sector, Like- **Android Development, Web Development, Machine Learning and Robotics**
 
 
 ## <img src="https://github.com/aatansen/aatansen/blob/main/img/5.gif" height="25px"/> Skills & Experiance:
