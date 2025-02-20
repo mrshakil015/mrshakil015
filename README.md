@@ -21,9 +21,9 @@
     <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/python.png" width="150px"/>
     <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/django.png" width="150px"/>
     <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/c.png" width="150px"/>
-    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/mysql.png" width="150px"/>
-    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/sqlite.png" width="150px"/>
     <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/flask.png" width="150px"/>
+    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/sqlite.png" width="150px"/>
+    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/mysql.png" width="150px"/>
     <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/html.png" width="150px"/>
     <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/css.png" width="150px"/>
     <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/javascript.png" width="150px"/>
