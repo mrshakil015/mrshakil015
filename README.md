@@ -30,10 +30,10 @@
     <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/bootstrap.png" width="150px"/>
     <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/tailwind.png" width="150px"/>
     <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/reactjs.png" width="150px"/>
-    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/cpanel.png" width="150px"/>
     <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/office.png" width="150px"/>
     <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/illustrator.png" width="150px"/>
     <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/photoshop.png" width="150px"/>
+    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/cpanel.png" width="150px"/>
 </p>
 
 <br/>
