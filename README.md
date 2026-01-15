@@ -78,27 +78,15 @@
 
 <br/>
 
+---
+[![](https://visitcount.itsvg.in/api?id=mrshakil015&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## <img src="https://github.com/aatansen/aatansen/blob/main/img/6.gif" height="25px"/> My Github Stats
 
-
-
-
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrshakil015&theme=gotham&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<table>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=mrshakil015&theme=gotham&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-    </td>
-    <td align="center" valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshakil015&theme=gotham&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
+![](https://nirzak-streak-stats.vercel.app/?user=mrshakil015&theme=algolia&hide_border=false)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mrshakil015?cardType=github&theme=algolia&fontFamily=Heebo&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
 ## <img src="https://github.com/aatansen/aatansen/blob/main/img/7.gif" height="25px"/> Achievement
