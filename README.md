@@ -15,55 +15,66 @@
 
 - <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> I’m interested in multiple sector, Like- **Android Development, Web Development, Machine Learning and Robotics**
 
-
 ## Tech Stack
 
-<div align="left">
+<table>
+  <tr>
+    <th>Programming Languages</th>
+    <th>Backend Frameworks</th>
+    <th>Databases</th>
+    <th>Frontend</th>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Python" src="https://img.shields.io/badge/Python-005697?style=for-the-badge&logo=python&labelColor=F7F7F7" /><br>
+      <img alt="C Programming" src="https://img.shields.io/badge/C%20Programming-5F76A2?style=for-the-badge&logo=c&logoColor=00427E&labelColor=ffffff" /><br>
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7E025?style=for-the-badge&logo=JavaScript&logoColor=000000&labelColor=ffffff" />
+    </td>
+    <td>
+      <img alt="Django" src="https://img.shields.io/badge/Django-082610?style=for-the-badge&logo=django&logoColor=082610&labelColor=ffffff" /><br>
+      <img alt="Flask" src="https://img.shields.io/badge/Flask-010101?style=for-the-badge&logo=Flask&logoColor=010101&labelColor=ffffff" />
+    </td>
+    <td>
+      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-01618A?style=for-the-badge&logo=MySQL&logoColor=01618A&labelColor=ffffff" /><br>
+      <img alt="SQLite" src="https://img.shields.io/badge/SQLite-013954?style=for-the-badge&logo=SQLite&logoColor=1783D0&labelColor=ffffff" /><br>
+      <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=PostgreSQL&logoColor=ffffff&labelColor=336791" />
+    </td>
+    <td>
+      <img alt="HTML5" src="https://img.shields.io/badge/HTML-DD4B25?style=for-the-badge&logo=HTML5&labelColor=F7F7F7" /><br>
+      <img alt="CSS" src="https://img.shields.io/badge/CSS-254BDD?style=for-the-badge&logo=Css" /><br>
+      <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-633194?style=for-the-badge&logo=Bootstrap&labelColor=F7F7F7" />
+    </td>
+  </tr>
 
-<!-- 🧠 Programming Languages -->
-<img alt="Static Badge" src="https://img.shields.io/badge/Python-005697?style=for-the-badge&logo=python&labelColor=F7F7F7">
-<img alt="Static Badge" src="https://img.shields.io/badge/C%20Programming-5F76A2?style=for-the-badge&logo=c&logoColor=00427E&labelColor=ffffff">
-<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-F7E025?style=for-the-badge&logo=JavaScript&logoColor=000000&labelColor=ffffff">
+  <tr>
+    <th>Cloud / VPS / Hosting</th>
+    <th>Tools & Version Control</th>
+    <th>Deployment / Server</th>
+    <th>Other Tools</th>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=E95420&labelColor=ffffff" /><br>
+      <img alt="VPS Linux" src="https://img.shields.io/badge/VPS-Server-000000?style=for-the-badge&logo=linux&logoColor=white" /><br>
+      <img alt="cPanel" src="https://img.shields.io/badge/cPanel-F7692B?style=for-the-badge&logo=cPanel&logoColor=F7692B&labelColor=ffffff" /><br>
+      <img alt="AWS Cloud" src="https://img.shields.io/badge/AWS_Cloud-000000?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    </td>
+    <td>
+      <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=F05032&labelColor=ffffff" /><br>
+      <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=FF6C37&labelColor=ffffff" />
+    </td>
+    <td>
+      <img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=009639&labelColor=ffffff" /><br>
+      <img alt="Gunicorn" src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=Gunicorn&logoColor=499848&labelColor=ffffff" />
+    </td>
+    <td>
+      <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-F25022?style=for-the-badge&logo=microsoft-office&logoColor=white" /><br>
+      <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&labelColor=001E36" /><br>
+      <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe-Illustrator-FF9A00?style=for-the-badge&labelColor=330000" />
+    </td>
+  </tr>
+</table>
 
-<!-- ⚙️ Backend Frameworks -->
-<img alt="Static Badge" src="https://img.shields.io/badge/Django-082610?style=for-the-badge&logo=django&logoColor=082610&labelColor=ffffff">
-<img alt="Static Badge" src="https://img.shields.io/badge/Flask-010101?style=for-the-badge&logo=Flask&logoColor=010101&labelColor=ffffff">
-
-<!-- 🗄️ Databases -->
-<img alt="Static Badge" src="https://img.shields.io/badge/MySQL-01618A?style=for-the-badge&logo=MySQL&logoColor=01618A&labelColor=ffffff">
-<img alt="Static Badge" src="https://img.shields.io/badge/SQLite-013954?style=for-the-badge&logo=SQLite&logoColor=1783D0&labelColor=ffffff">
-<img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=PostgreSQL&logoColor=ffffff&labelColor=336791">
-
-<!-- 🌐 Frontend Technologies -->
-<img alt="Static Badge" src="https://img.shields.io/badge/HTML-DD4B25?style=for-the-badge&logo=HTML5&labelColor=F7F7F7">
-<img alt="Static Badge" src="https://img.shields.io/badge/CSS-254BDD?style=for-the-badge&logo=Css">
-<img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-633194?style=for-the-badge&logo=Bootstrap&labelColor=F7F7F7">
-
-<!-- ☁️ Cloud, VPS & Hosting -->
-<img alt="Static Badge" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=E95420&labelColor=ffffff">
-<img src="https://img.shields.io/badge/VPS-Server-000000?style=for-the-badge&logo=linux&logoColor=white" alt="VPS Linux" />
-<img alt="Static Badge" src="https://img.shields.io/badge/cPanel-F7692B?style=for-the-badge&logo=cPanel&logoColor=F7692B&labelColor=ffffff">
-<img src="https://img.shields.io/badge/AWS-Cloud-000000?style=for-the-badge&logo=icloud&logoColor=white" alt="VPS Cloud" />
-
-
-<!-- 🔧 Tools & Version Control -->
-<img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=F05032&labelColor=ffffff">
-<img alt="Static Badge" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=FF6C37&labelColor=ffffff">
-
-<!-- 🚀 Deployment & Server Stack -->
-<img alt="Static Badge" src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=009639&labelColor=ffffff">
-<img alt="Static Badge" src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=Gunicorn&logoColor=499848&labelColor=ffffff">
-
-<!-- Other Tools -->
-<img src="https://img.shields.io/badge/Microsoft_Office-F25022?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office" />
-<img alt="Static Badge" src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&labelColor=001E36">
-
-<img alt="Static Badge" src="https://img.shields.io/badge/Adobe-Illustrator-FF9A00?style=for-the-badge&labelColor=330000" alt="Adobe Illustrator">
-
-
-
-
-</div>
 
 <br/>
 
