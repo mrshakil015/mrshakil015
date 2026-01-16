@@ -64,6 +64,7 @@
       <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=FF6C37&labelColor=ffffff" />
     </td>
     <td>
+      <img alt="Static Badge" src="https://img.shields.io/badge/Docker-2986FF?style=for-the-badge&logo=docker&labelColor=ffffff">
       <img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=009639&labelColor=ffffff" /><br>
       <img alt="Gunicorn" src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=Gunicorn&logoColor=499848&labelColor=ffffff" />
     </td>
