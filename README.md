@@ -1,7 +1,7 @@
 
 <p align="center">
-<img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/githubcovernew.png" align="center" style="width: 100%" />
-<img src="https://readme-typing-svg.herokuapp.com?lines=🤩Love+Coding+and+Designing;🤩Love+Teaching+Others;💪Hard+Worker;🤔Critical+Thinker&center=true">
+<img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/cover.png" align="center" style="width: 100%" />
+<img src="https://readme-typing-svg.herokuapp.com?lines=Love+Coding+and+Teaching;Love+Teaching+Others;Hard+Worker;Critical+Thinker&center=true">
 </p>
 
 <p align="center">
