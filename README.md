@@ -1,4 +1,3 @@
-
 <p align="center">
 <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/cover.png" align="center" style="width: 100%" />
 <img src="https://readme-typing-svg.herokuapp.com?lines=Love+Coding+and+Teaching;Love+Teaching+Others;Hard+Worker;Critical+Thinker&center=true">
@@ -20,7 +19,7 @@
 <table>
   <tr>
     <th>Programming Languages</th>
-    <th>Backend Frameworks</th>
+    <th>API & Backend Frameworks</th>
     <th>Databases</th>
     <th>Frontend</th>
   </tr>
@@ -32,7 +31,8 @@
     </td>
     <td>
       <img alt="Django" src="https://img.shields.io/badge/Django-082610?style=for-the-badge&logo=django&logoColor=082610&labelColor=ffffff" /><br>
-      <img alt="Flask" src="https://img.shields.io/badge/Flask-010101?style=for-the-badge&logo=Flask&logoColor=010101&labelColor=ffffff" />
+      <img alt="Flask" src="https://img.shields.io/badge/Flask-010101?style=for-the-badge&logo=Flask&logoColor=010101&labelColor=ffffff" /></br>
+      <img alt="Static Badge" src="https://img.shields.io/badge/Django%20REST%20API-A30000?style=for-the-badge&logo=Django%20REST%20API">
     </td>
     <td>
       <img alt="MySQL" src="https://img.shields.io/badge/MySQL-01618A?style=for-the-badge&logo=MySQL&logoColor=01618A&labelColor=ffffff" /><br>
@@ -85,14 +85,28 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## <img src="https://github.com/aatansen/aatansen/blob/main/img/6.gif" height="25px"/> My Github Stats
+<table>
+    <tr>
+    <td>  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=algolia&fontFamily=Heebo&preferLogin=false&Background=0D1117&Border=DD272700"><img  alt="mrshakil015's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/mrshakil015?cardType=github&theme=algolia&fontFamily=Heebo&preferLogin=false&Background=0D1117&Border=DD272700" /> </a></td>
+    <td><img alt="Shakil's Top Languages" src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs/?username=mrshakil015&langs_count=8&count_private=true&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117" /></a></td>
+  </tr>
+<tr align="center">
+    <td colspan="2">
+      <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=mrshakil015&theme=algolia&border_radius=0&card_width=800&card_height=200&background=0D1117&hide_border=true" alt="GitHub Streak" /></a>
+    </td>
+  </tr>
 
-![](https://nirzak-streak-stats.vercel.app/?user=mrshakil015&theme=algolia&hide_border=false)
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mrshakil015?cardType=github&theme=algolia&fontFamily=Heebo&preferLogin=false)](https://git.io/awesome-stats-card)
+
+  <tr>
+    <td colspan="2" style="padding: 5px;"><img alt="Tansen's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mrshakil015&bg_color=0D1117&color=00AEFF&line=00AEFF&point=FFFFFF&hide_border=true" /></a></td>
+  </tr>
+</table>
 
 
-## <img src="https://github.com/aatansen/aatansen/blob/main/img/7.gif" height="25px"/> Achievement
 
-![](https://github-profile-trophy.vercel.app/?username=mrshakil015&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
+## Achievement
+
+<p align="left"> <a href="https://github.com/mrshakil015?tab=repositories"><img src="https://github-profile-trophy-trinibs-projects.vercel.app/?username=mrshakil015&theme=alduin" alt="Shakil's Trophy" /></a> </p>
 
 ## <img src="https://github.com/aatansen/aatansen/blob/main/img/8.gif" height="25px"/> Connect with me:
 
